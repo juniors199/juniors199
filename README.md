@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo.👋
 
-- 🔭 Hoje trabalho como Suporte HelpDesk
+- 🔭 Hoje trabalho como Desenvolvedor Web, utilizo php para os projetos do dia-a-dia, sigo com implementações e manutenções no sistema voltado para Gestão Publica, prezando sempre a qualidade e boas praticas. 
 - 🌱 Atualmente estudo o Framework Laravel
 - 🎓 Ciência da Computação [8/8]
 
