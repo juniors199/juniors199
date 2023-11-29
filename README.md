@@ -1,8 +1,8 @@
 ## Olá, seja bem vindo.👋
 
 - 🔭 Hoje trabalho como Suporte HelpDesk
-- 🌱 Atualmente estudo Lógica de Programação com JavaScript
-- 🎓 Ciência da Computação [7/8]
+- 🌱 Atualmente estudo o Framework Laravel
+- 🎓 Ciência da Computação [8/8]
 
 
 <div style="display: inline_block"><br>
